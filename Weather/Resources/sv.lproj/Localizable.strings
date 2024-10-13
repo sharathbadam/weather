@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Sharath on 13/10/24.
+  
+*/
+
+"feels_like" = "Känns som: ";
+"sun_raise_set" = "Soluppgång och solnedgång";
+"temp_max" = "Max Temp: ";
+"temp_min" = "Min Temp: ";
+"pressure" = "Tryck: ";
+"humidity" = "Luftfuktighet: ";
+"sea_level" = "Lufttryck vid havsnivå: ";
+"location_denied" = "Platsåtkomst nekad";
+"location_error" = "Fel vid begäran om platsåtkomst";
+"invalid_response" = "Fel vid hämtning av data, vänligen försök igen";
+"no_data" = "Misslyckades med att hämta data";
+"decoding_error" = "Det verkar vara ett fel i data";
+"invalid_url" = "Misslyckades med att hämta data";
+"search_placeholder" = "Sök efter en plats...";
+"search_result" = "Sökresultat: ";

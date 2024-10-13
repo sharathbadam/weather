@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Sharath on 13/10/24.
+  
+*/
+
+
+"feels_like" = "Feels Like: ";
+"sun_raise_set" = "Sun rise and Set";
+"temp_max" = "Min Temp: ";
+"temp_min" = "Min Temo: ";
+"pressure" = "Pressure: ";
+"humidity" = "Humidity: ";
+"sea_level" = "Sea Level Pressure: ";
+"location_denitd" = "Location permission is denied";
+"location_error" = "Error in requesting location permission";
+"invalid_response" = "Error in fetching data, Please try again";
+"no_data" = "Failed to fetch data";
+"decoding_error" = "There seems to me error in data";
+"invalid_url" = "Failed to fetch data";
+"search_placeholder" = "Search for a city...";
+"search_result" = "Search Result: ";
